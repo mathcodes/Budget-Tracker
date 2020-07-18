@@ -21,15 +21,11 @@ MIT
 
 ## Installation
 ```
-npm init
-```
-
-```
-npm i express mongoose morgan 
+npm install
 ```
 
 ## Usage
-Please feel free to fork, download, or clone with suggestions... or just bookmark the link and use this application to get in shape!
+Please feel free to fork, download, or clone with suggestions... or just bookmark the link and use this application to keep track of your budget!
 
 ## Questions
 I look forward to hearing from you! Please do not hesitate contact me with any questions. You can contact me directly either using [my email](mailto:jonpchristie@gmail.com) or on github: [mathcodes](https://github.com/mathcodes).
